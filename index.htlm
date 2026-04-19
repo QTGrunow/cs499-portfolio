@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quinton Grunow ePortfolio</title>
+</head>
+<body>
+
+<h1>Quinton Grunow - CS 499 ePortfolio</h1>
+
+<h2>Professional Self-Assessment</h2>
+<p>
+I have developed strong skills in software development, problem solving, and working with modern technologies...
+</p>
+
+<h2>Artifacts</h2>
+
+<h3>Software Design and Engineering</h3>
+<p>Improved code structure, readability, and overall functionality.</p>
+
+<h3>Algorithms and Data Structures</h3>
+<p>Implemented sorting to improve data organization and usability.</p>
+
+<h3>Databases</h3>
+<p>Added validation to ensure only valid data is stored.</p>
+
+<h2>Links</h2>
+<ul>
+    <li><a href="#">Download Project (ZIP)</a></li>
+    <li><a href="#">Narratives</a></li>
+</ul>
+
+</body>
+</html>
