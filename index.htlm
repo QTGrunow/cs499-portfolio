@@ -3,31 +3,48 @@
 <head>
     <title>Quinton Grunow ePortfolio</title>
 </head>
-<body>
+<body style="font-family: Arial; margin: 40px;">
 
 <h1>Quinton Grunow - CS 499 ePortfolio</h1>
 
 <h2>Professional Self-Assessment</h2>
 <p>
-I have developed strong skills in software development, problem solving, and working with modern technologies...
+Throughout the Computer Science program, I developed skills in software development, problem solving, and working with modern technologies. 
+This portfolio highlights my ability to improve existing applications and apply key concepts such as software design, algorithms, and databases.
 </p>
+
+<hr>
 
 <h2>Artifacts</h2>
 
 <h3>Software Design and Engineering</h3>
-<p>Improved code structure, readability, and overall functionality.</p>
+<p>
+Improved code structure, readability, and overall functionality of a mobile application. Focused on maintainability and organization.
+</p>
 
 <h3>Algorithms and Data Structures</h3>
-<p>Implemented sorting to improve data organization and usability.</p>
+<p>
+Implemented sorting to organize data before displaying it, improving usability and demonstrating algorithmic thinking.
+</p>
 
 <h3>Databases</h3>
-<p>Added validation to ensure only valid data is stored.</p>
+<p>
+Added input validation to ensure only valid data is stored, improving data integrity and reliability of the application.
+</p>
 
-<h2>Links</h2>
+<hr>
+
+<h2>Downloads</h2>
 <ul>
-    <li><a href="#">Download Project (ZIP)</a></li>
-    <li><a href="#">Narratives</a></li>
+    <li><a href="QuintonApplication.zip">Download Project (ZIP)</a></li>
+    <li><a href="cs-499 artifact narratives.docx">Artifact Narratives</a></li>
+    <li><a href="cs 499 self assessment.docx">Professional Self-Assessment</a></li>
+    <li><a href="cs 499 code review.docx">Code Review</a></li>
 </ul>
+
+<hr>
+
+<p><b>Note:</b> This ePortfolio demonstrates growth in software design, algorithms, and database development through enhancements made to an existing mobile application.</p>
 
 </body>
 </html>
