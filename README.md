@@ -15,4 +15,4 @@ This repository contains my capstone ePortfolio for the Computer Science program
 
 ## Portfolio
 View my ePortfolio here:
-https://YOUR-USERNAME.github.io/cs499-portfolio
+https://github.com/QTGrunow/cs499-portfolio
